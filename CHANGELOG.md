@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Dates formatted as YYYY-MM-DD as per [ISO standard](https://www.iso.org/iso-8601-date-and-time-format.html).
 
+## [v0.1.1] - 2026-09-04
+
+Review of materials by @amyheather.
+
+### Fixed
+
+* **README** - corrected environment name.
+* **Week 3** - fixed `patient_is_high_risk()` (needs `heart_rate` not `heartrate`).
+* **Week 6** - add missing dataset.
+* **Week 9** - corrected filename from `synt_ed_long.csv` to `syn_ts_ed_long.csv`.
+
+### Changed
+
+* **Week 4** - corrected name of solutions notebook.
+
 ## [v0.1.0] - 2026-09-03
 
 🌱 Initial release of HPDM171 teaching materials.

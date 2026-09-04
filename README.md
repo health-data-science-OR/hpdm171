@@ -40,7 +40,7 @@ This repository contains teaching materials, including lecture notebooks, practi
 2. **Create the conda environment**
    ```bash
    conda env create -f binder/environment.yml
-   conda activate hpdm171
+   conda activate hds_python
    ```
 
 3. **Launch Jupyter**
