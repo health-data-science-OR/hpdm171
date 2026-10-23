@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Dates formatted as YYYY-MM-DD as per [ISO standard](https://www.iso.org/iso-8601-date-and-time-format.html).
 
+## [v0.2.0] - 2026-10-23
+
+Update of week 6
+
+### Changed
+
+* **Week 6 Lecture Part 1** - functions instead of classes
+* **Week 6 Exercises** 
+	- four new simple exercises with local data.  
+	- Removed regression and winzorization exercises.
+	- Exercise 7 parallels bootstrap examples from lecture part 3. 
+	
+### Added
+
+* **Wisconsin dataset** - local file `week6/lecture/data/` instead of complex download via `requests` library
+* **Clinic data** in `week6/practical/waiting_times.csv` for use in exercises 1-4.
+
 ## [v0.1.1] - 2026-09-04
 
 Review of materials by @amyheather.
