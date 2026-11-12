@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Dates formatted as YYYY-MM-DD as per [ISO standard](https://www.iso.org/iso-8601-date-and-time-format.html).
 
+## [v0.3.0] - 2026-11-12
+
+Introduction to `seaborn` student self study material
+
+### Added
+
+* `week_09/09_seaborn.ipynb` shows how to rework week 8 exercise 5 with `sns.relplot()` and also introduces `sns.catplot`, `sns.displot` and how to use `matplotlib` with `seaborn`.
+
 ## [v0.2.1] - 2026-11-02
 
 Typo fixes of week 7 and 8.
