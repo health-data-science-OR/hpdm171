@@ -13,6 +13,10 @@ Introduction to `seaborn` student self study material
 
 * `week_09/09_seaborn.ipynb` shows how to rework week 8 exercise 5 with `sns.relplot()` and also introduces `sns.catplot`, `sns.displot` and how to use `matplotlib` with `seaborn`.
 
+### Fixed
+
+* Week 8 lecture notebook calls to `pivot_table` now set `observed=False` to avoid `pandas` deprecation warning.
+
 ## [v0.2.1] - 2026-11-02
 
 Typo fixes of week 7 and 8.
