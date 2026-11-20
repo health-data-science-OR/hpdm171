@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html). Dates formatted as YYYY-MM-DD as per [ISO standard](https://www.iso.org/iso-8601-date-and-time-format.html).
 
+## [0.4.0] = 2026-11-19
+
+Update and improvements to week 10 OOP lecture and exercises/solutions
+
+### Added
+
+* `10_advanced_oop_optional.ipynb` - containing advanced topics no longer directly covered in lecture.
+
+### Changed
+
+* Advanced OOP topics: inheritance, object composition and polymorphism removed from main lecture. Replaced with more explanation of basic OOP and objects in Python.
+* Lecture now has supporting images for OOP text adventure in a hospital.
+* Exercises rewritten from scratch. Complex classes and objects no longer covered. To support students exercises now mirror lecture code rather than expecting students to build from scratch. Progression from a single object -> multiple instances of the same class -?custom classes -> attributes -> methods. Template code given for most exercises.  Exercise 7 is more advanced and challenging for students who are comfortable.
+
 ## [v0.3.0] - 2026-11-12
 
 Introduction to `seaborn` student self study material
